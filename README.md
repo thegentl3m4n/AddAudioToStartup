@@ -1,5 +1,5 @@
 # AddAudioToStartup
-its a python script that'll add the given audio file to startup
+its a python script that'll add the given audio file to startup (tested in debian distros)
 
 
 # working
